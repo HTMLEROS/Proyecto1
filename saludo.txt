@@ -1,2 +1,6 @@
+
+Hola soy carri, este es un mensaje de bienvenida al proyecto.
+hola soy conmigo
+
 Hola soy lauti, este es un mensaje de bienvenida al proyecto.
 hola soy punk
